@@ -2,7 +2,7 @@ package capitulo_4.ejercicio_15;
 
 import java.util.Scanner;
 
-public class Main {
+public class Ejercicio_15 {
     public static void main(String ... args) {
         double PESO_A, PESO_B, PESO_C, PESO_D;
 
